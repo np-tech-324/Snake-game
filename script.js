@@ -47,5 +47,7 @@ function render(){
 }
 
 setInterval(() => {
+    
+
     render()
 }, 300);
